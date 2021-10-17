@@ -2,7 +2,8 @@
 
 ## Soy Empleado Telecom
 
-![Gonzalo GitHub stats](https://github-readme-stats.vercel.app/api?username=gjr17&hide=contribs,prs)
+![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjr17&show_icons=true&theme=dark)
+
 
 
 
